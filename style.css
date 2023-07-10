@@ -231,6 +231,13 @@ header {
   margin-top: 2rem;
 }
 
+.shop-btn {
+  display: flex;
+  margin-top: 15px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
 .delivery-img,
 .app-img {
   flex: 1 1 21rem;
